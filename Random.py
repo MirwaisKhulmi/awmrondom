@@ -6,7 +6,7 @@ import requests,bs4,json,os,sys,random,datetime,time,re
 
 try:
 
-	import richexcept ImportError:
+
 
 	print ('\n\t\x1b[0m >_< mohon tunggu... >_<\n')
 

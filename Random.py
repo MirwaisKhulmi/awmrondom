@@ -1,6 +1,6 @@
-# coding by Romi Afrizal
 
-##DECOMPILE BY: SakuraDevOps
+
+
 
 import os, sys, subprocess, platform
 
